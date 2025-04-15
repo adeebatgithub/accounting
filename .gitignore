@@ -1,6 +1,5 @@
 .idea/
 .venv/
-db.sqlite3
 
 finsys/migrations/
 finsys/__pycache__/
